@@ -10,7 +10,7 @@ namespace Programming1_Exercise_GitTest
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello world!");
 
         }
     }
